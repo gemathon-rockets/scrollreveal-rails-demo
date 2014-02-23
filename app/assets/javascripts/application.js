@@ -17,8 +17,7 @@
 //= require turbolinks
 //= require_tree .
 
-
-$(function() {
-  window.scrollReveal = new scrollReveal();
-});
-$(function(){ $(document).foundation(); });
+$(function(){
+ $(document).foundation();
+ window.scrollReveal = new scrollReveal();
+  });
