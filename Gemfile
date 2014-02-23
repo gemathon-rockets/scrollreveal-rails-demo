@@ -33,7 +33,7 @@ gem 'turbolinks'
 
 gem 'foundation-rails'
 
-gem 'scrollreveal-rails','0.0.1',path: 'vendor/gems/scrollreveal-rails'
+gem 'scrollreveal-rails',github: 'gemathon-rockets/scrollreveal-rails'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
